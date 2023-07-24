@@ -14,7 +14,7 @@ I majored in Biomedical Engineering and Electrical Engineering, minored in Compu
 
 My research interest is in Biomedical Image Processing.
 
-I am now working in [Dr.Yu's lab](https://yumrilab.com/) at Case Western Reserve University.
+I am now working in [Yu's lab](https://yumrilab.com/) at Case Western Reserve University.
 
 # Project
 ## Automatic Skull Stripping for Mouse 
