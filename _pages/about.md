@@ -10,16 +10,19 @@ redirect_from:
 
 I am a senior undergraduate student at Case Western Reserve University. 
 
+I majored in Biomedical Engineering and Electrical Engineering, minored in Computer Science and Japanese.
+
 My research interest is in Biomedical Image Processing.
 
 I am now working in [Dr.Yu's lab](https://yumrilab.com/) at Case Western Reserve University.
 
 # Project
 ## Automatic Skull Stripping for Mouse 
-I am developing and optimizing an algorithm to automatically strip the mouse skull out of the image using machine learning network.
+I am developing and optimizing an algorithm to automatically strip the mouse skull out of the image using machine learning network. I received an award of $3700 from SOURCE department of Case Western Reserve University
 
 ## Animal cradle design and making for Preclinical 9.4T MRI System
-I designed cradle using CAD software, and fabricated cradle by executing laser cutting to minimize the effect of vibration on the image quality.
+I designed cradle using CAD software, and fabricated cradle by executing laser cutting to minimize the effect of vibration on the image quality.I received a funding of $1000 from Sears Thinkbox of Case Western Reserve University,
+
 
 <!-- A data-driven personal website
 ======
